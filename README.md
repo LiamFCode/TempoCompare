@@ -9,13 +9,13 @@ This tool finds exactly how much a recording is rushing or dragging in both bpm 
 
 ## Implementation
 
-1. Clone the repo
+1. Clone the repo\
 ```$ git clone https://github.com/LiamFCode/WhiplashAnswer.git```
 
-2. Install requirements
+2. Install requirements\
 ```$ python -m pip install librosa```
 
-3. Run the tool
+3. Run the tool\
 ```$ python3 whiplash.py [audio file path] [target tempo]```
 
 ex) for Windows  ```$ python3 whiplash.py "C:\Users\JohnSmith\Desktop\AudioFiles\recording.mp3" 120```\
