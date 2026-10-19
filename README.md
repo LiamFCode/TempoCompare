@@ -4,7 +4,7 @@ This python script integrates the librosa signal processing library to determine
 
 ## Context
 
-<video src="https://www.youtube.com/watch?v=VnuImW1dWAk" width="100%" controls></video>
+[![Whiplash Scene: Rushing or Dragging](https://www.youtube.com/watch?v=VnuImW1dWAk)](https://www.youtube.com/watch?v=VnuImW1dWAk)
 
 ## Implementation
 
