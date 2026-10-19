@@ -10,7 +10,7 @@ This tool finds exactly how much a recording is rushing or dragging in both bpm 
 ## Implementation
 
 1. Clone the repo\
-```$ git clone https://github.com/LiamFCode/WhiplashAnswer.git```
+```$ git clone https://github.com/LiamFCode/TempoCompare.git```
 
 2. Install requirements\
 ```$ python -m pip install librosa```
@@ -22,7 +22,7 @@ ex) for Windows  ```$ python3 whiplash.py "C:\Users\JohnSmith\Desktop\AudioFiles
 &nbsp;&nbsp;&nbsp;&nbsp;or for MacOS ```$ python3 whiplash.py "/Users/JohnSmith/Desktop/AudioFiles/recording.mp3" 120```
 
 ## How it Works
-The WhiplashAnswer tool takes the inputted audio file and approximates its tempo through the librosa python signal processing library. Next it compares this tempo to the inputted target tempo, finds the BPM and percent difference, and outputs it with the format shown in the example below.
+The TempoCompare tool takes the inputted audio file and approximates its tempo through the librosa python signal processing library. Next it compares this tempo to the inputted target tempo, finds the BPM and percent difference, and outputs it with the format shown in the example below.
 ```
 Target tempo:   120 BPM
 Detected tempo: 130 BPM
