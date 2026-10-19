@@ -4,7 +4,12 @@ This python script integrates the librosa signal processing library to determine
 
 ## Context
 
-[Whiplash Scene: Rushing or Dragging](https://www.youtube.com/watch?v=VnuImW1dWAk)
+<iframe 
+  class="aspect-video md:aspect-square w-full" 
+  src="https://www.youtube.com/watch?v=VnuImW1dWAk" 
+  allowfullscreen>
+</iframe>
+
 
 ## Implementation
 
