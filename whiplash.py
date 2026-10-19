@@ -23,9 +23,9 @@ def compare_tempo(audio_file, target_bpm):
     if abs(difference) < 0.5:
         print("RESULT: Approx. same tempo")
     elif difference > 0:
-        print(f"RESULT: Faster by {difference:.1f} BPM ({percentage:+.1f}%)")
+        print(f"RESULT: Not quite my tempo. Rushing by {difference:.1f} BPM ({percentage:+.1f}%)")
     else:
-        print(f"RESULT: Slower by {abs(difference):.1f} BPM ({percentage:+.1f}%)")
+        print(f"RESULT: Not quite my tempo. Dragging by {abs(difference):.1f} BPM ({percentage:+.1f}%)")
 
 #*---prevent-run-when-imported-&&-start---*#
 if __name__ == "__main__":
