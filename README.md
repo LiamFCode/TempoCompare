@@ -4,7 +4,7 @@ This python script integrates the librosa signal processing library to determine
 
 ## Context
 This project was inspired by the famous scene from the movie Whiplash, in which drummer Neiman repeatedly does not match the count off tempo and cannot determine if he was rushing or dragging.
-This tool finds exactly how much a recording is rushing or dragging in both bpm and percent and outputs it back to the terminal, leaving no room for guesswork or hurled chairs.
+This tool finds exactly how much a recording is rushing or dragging in both bpm and percent and outputs it back to the terminal, leaving no room for guesswork or hurled chairs.\
 [![Whiplash Scene: Rushing or Dragging](https://www.youtube.com/watch?v=VnuImW1dWAk)](https://www.youtube.com/watch?v=VnuImW1dWAk)
 
 ## Implementation
