@@ -18,5 +18,5 @@ This python script integrates the librosa signal processing library to determine
 ```$ python3 whiplash.py [audio file path] [target tempo]```
 
 ex) for Windows  ```$ python3 whiplash.py "C:\Users\JohnSmith\Desktop\AudioFiles\recording.mp3" 120```\
-    or for MacOS ```$ python3 whiplash.py "/Users/JohnSmith/Desktop/AudioFiles/recording.mp3" 120```
+&nbsp;&nbsp;&nbsp;&nbsp;or for MacOS ```$ python3 whiplash.py "/Users/JohnSmith/Desktop/AudioFiles/recording.mp3" 120```
 
